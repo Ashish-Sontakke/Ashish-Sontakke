@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ashish-Sontakke
-- 👀 I’m interested in application development, flutter.
-- 🌱 I’m currently learning animations,full stack development.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 👀 I’m interested in Blockchain development, flutter development.
+- 🌱 I’m currently learning creating smart contracts.
+- 💞️ I’m looking to collaborate on EdTech,FinTech Projects. 
 
 <!---
 Ashish-Sontakke/Ashish-Sontakke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
