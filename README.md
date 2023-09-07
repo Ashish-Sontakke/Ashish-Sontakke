@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashish-Sontakke
 - 👀 I’m interested in Blockchain development, flutter development.
-- 🌱 I’m create web3 applications. 
+- 🌱 I create web3 applications. 
 - 💞️ I’m looking to collaborate on Defi,DAO and FinTech Projects. 
 
 <!---
